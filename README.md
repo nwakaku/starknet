@@ -6,7 +6,7 @@ Dao Proposal Offer
 
 ## Name:
  Nwakaku Wisdom
-## Discord
+## Discord:
  wisdom_chris#9551
 
 ## ZKX: Building DAO (Easy)
